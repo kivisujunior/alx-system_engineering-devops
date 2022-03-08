@@ -1,1 +1,2 @@
--m #!/bin/bash \n head -3 iacta | tail +3
+#!/bin/bash 
+ head -3 iacta | tail +3
